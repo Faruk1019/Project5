@@ -1,0 +1,8 @@
+<suite name="Negative Login Test Suite">
+    <test name="Negative Login Test">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="Test.NegativeLoginTest"></class>
+        </classes>
+    </test>
+</suite>

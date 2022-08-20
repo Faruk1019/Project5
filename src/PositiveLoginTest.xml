@@ -1,0 +1,8 @@
+<suite name="Positive Login Test Suite">
+    <test name="Positive Login Test">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="Test.PositiveLoginTest"></class>
+        </classes>
+    </test>
+</suite>
